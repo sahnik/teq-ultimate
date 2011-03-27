@@ -10,7 +10,7 @@ h2. Features include
 * Military market will show which item will give you the most networth for your money.
 * Main page shows how many turns are left in the set.
  
-*strong* This script works in both Chrome and Firefox. In Firefox the Greasemonkey extension is required.
+*This script works in both Chrome and Firefox. In Firefox the Greasemonkey extension is required.*
 
 "TEQ":http://playteq.com
 "Userscripts.org":http://userscripts.org/scripts/show/98925
