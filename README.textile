@@ -1,0 +1,16 @@
+h2. Features include
+
+* Pact list highlighting in the scores list. If you have the pacts add-on, then anybody that is on your pact list will be highlighted on the scores list.
+* Attack calculator: View your status, get a BMS, will calculate your chances and show on BMS screen.
+* Show offense and defense points on status screens. Does not take into account discos or profile.
+* On territories screen, shows number of BCs needed to build current unassigned land. Will also highlight the field in red if you do not have enough. Also shows how many MIs needed to max PDS.
+* Build and research shortcuts - type "tn <tab>" where n is the number of turns you want to use. For example if you have 30bpt and want to build for 10 turns, typing t10 will automatically put in 300.<tab>
+* Research screen and market will show how much research needed to max.
+* Private market screen shows many useful values.
+* Military market will show which item will give you the most networth for your money.
+* Main page shows how many turns are left in the set.
+ 
+*strong* This script works in both Chrome and Firefox. In Firefox the Greasemonkey extension is required.
+
+"TEQ":http://playteq.com
+"Userscripts.org":http://userscripts.org/scripts/show/98925
